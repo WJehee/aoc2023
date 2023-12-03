@@ -1,0 +1,6 @@
+
+run: build
+    ./solution
+
+build:
+    gcc main.c -o solution
