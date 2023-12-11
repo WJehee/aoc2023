@@ -1,0 +1,7 @@
+
+run: build
+    ./main
+
+build:
+    ghc main.hs
+
