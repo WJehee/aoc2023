@@ -1,0 +1,6 @@
+
+run: build
+    java Main
+
+build:
+    javac main.java
